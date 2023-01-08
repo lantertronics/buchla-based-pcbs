@@ -1,5 +1,5 @@
 
-#Adaptation of the Balanced Modulator from the Music Easel
+# Adaptation of the Balanced Modulator from the Music Easel
 
 ## Revision 2
 Original circuit by Don Buchla (used with his kind permission); adapted by Aaron Lanterman. This is based on the balanced modulator circuit on Board 5 of the Music Easel. You should spend some time studying the original schematics. Warning: This board is designed to be highly flexible; it can be configured in many different ways. Please read the notes below carefully and decide what options you want before building.
