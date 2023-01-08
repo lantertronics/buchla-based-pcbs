@@ -1,5 +1,7 @@
 # Adaptation of the Preamp & Envelope Detector from the Music Easel
 
+Clarification: This is not an official product of or associated with Buchla USA.
+
 ## Revision 1
 
 Original circuit by Don Buchla; adapted by Aaron Lanterman. This is based on the preamp and envelope detector circuit on Board 10 of the Music Easel. You should spend some time studying the original schematic.
