@@ -1,5 +1,7 @@
 # Adaptation of the Low Pass Gate from the Music Easel
 
+Clarification: This is not an official product of or associated with Buchla USA.
+
 ## Revision 1
 Original circuit by Don Buchla; adapted by Aaron Lanterman. This is based on the lowpass gate circuit on Board 10 and Board 11 of the Music Easel, which contains two identical LPG circuits. You should spend some time studying the original schematics.
 
